@@ -1,1 +1,1 @@
-# creating_nft_collection
+# creating_nft_collection_of_pokemon
