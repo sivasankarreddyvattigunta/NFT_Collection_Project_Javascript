@@ -62,6 +62,8 @@ Each NFT is represented by an object with the following properties:
 
 [VATTIGUNTA SIVA SANKAR REDDY](https://github.com/sivasankarreddyvattigunta)
 
+LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/siva-sankar-reddy-vattigunta-4098b824a)
+
 ## License
 
 This project is licensed under the MIT License 
