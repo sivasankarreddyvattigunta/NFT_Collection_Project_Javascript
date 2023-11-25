@@ -30,7 +30,6 @@ You can mint new NFTs by calling the `mintNFT` function. Example:
 ```javascript
 mintNFT(
   "Pikachu",
-  // ... (other parameters)
 );
 ```
 
@@ -57,7 +56,7 @@ Each NFT is represented by an object with the following properties:
 - `name`: Name of the NFT.
 - `description`: Description of the NFT.
 - `image`: URL or path to the NFT image.
-- ... (other properties)
+
 
 ## Author
 
